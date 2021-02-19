@@ -10,3 +10,4 @@ github_username:  no # DO NOT include the @ character, or else the build will fa
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 theme: minima
+g
