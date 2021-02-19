@@ -1,4 +1,7 @@
-title: True blog
+---
+title: "YOUR-TITLE"
+date: 2021-2-19
+---
 author: asama1
 email: asama1@ocdsb.ca
 description: > # this means to ignore newlines until "baseurl:"
